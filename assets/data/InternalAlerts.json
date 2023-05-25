@@ -1,0 +1,89 @@
+{
+    "internalAlerts": [
+      {
+        "alertID": "1",
+        "message": "Important update: New safety guidelines for the community",
+        "userID": "admin123",
+        "location": "Citywide",
+        "images": [],
+        "category": "Internal",
+        "timestamp": "2023-05-25T08:00:00Z",
+        "status": "active",
+        "likes": 20,
+        "comments": [
+          {
+            "userID": "user456",
+            "comment": "Thanks for sharing the guidelines!"
+          },
+          {
+            "userID": "user789",
+            "comment": "These are helpful tips. Appreciate it!"
+          }
+        ]
+      },
+      {
+        "alertID": "2",
+        "message": "Upcoming maintenance: Temporary service interruption on May 28th",
+        "userID": "admin123",
+        "location": "Citywide",
+        "images": [],
+        "category": "Internal",
+        "timestamp": "2023-05-24T15:30:00Z",
+        "status": "active",
+        "likes": 15,
+        "comments": [
+          {
+            "userID": "user123",
+            "comment": "Thanks for the heads up!"
+          }
+        ]
+      },
+      {
+        "alertID": "3",
+        "message": "Reminder: Community meeting on June 1st at City Hall",
+        "userID": "admin123",
+        "location": "Citywide",
+        "images": [],
+        "category": "Internal",
+        "timestamp": "2023-05-23T11:45:00Z",
+        "status": "active",
+        "likes": 8,
+        "comments": [
+          {
+            "userID": "user789",
+            "comment": "Looking forward to the meeting!"
+          }
+        ]
+      },
+      {
+        "alertID": "4",
+        "message": "Temporary road closure on Oak Street due to construction",
+        "userID": "admin123",
+        "location": "Oak Street, City",
+        "images": [],
+        "category": "Internal",
+        "timestamp": "2023-05-22T14:20:00Z",
+        "status": "resolved",
+        "likes": 5,
+        "comments": []
+      },
+      {
+        "alertID": "5",
+        "message": "Holiday office closure: May 31st - June 3rd",
+        "userID": "admin123",
+        "location": "Citywide",
+        "images": [],
+        "category": "Internal",
+        "timestamp": "2023-05-21T09:30:00Z",
+        "status": "active",
+        "likes": 3,
+        "comments": [
+          {
+            "userID": "user456",
+            "comment": "Thanks for letting us know!"
+          }
+        ]
+      }
+    ]
+  }
+  

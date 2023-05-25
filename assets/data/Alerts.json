@@ -1,0 +1,98 @@
+{
+    "alerts": [
+      {
+        "alertID": "1",
+        "message": "Burglary reported in the neighborhood.",
+        "userID": "user123",
+        "location": "123 Main Street, City",
+        "images": [
+          "https://example.com/image1.jpg",
+          "https://example.com/image2.jpg"
+        ],
+        "category": "Robbery",
+        "timestamp": "2023-05-25T10:30:00Z",
+        "status": "active",
+        "likes": 10,
+        "comments": [
+          {
+            "userID": "user456",
+            "comment": "Stay safe, everyone!"
+          },
+          {
+            "userID": "user789",
+            "comment": "I saw suspicious activity around that area yesterday."
+          }
+        ]
+      },
+      {
+        "alertID": "2",
+        "message": "Attempted car theft at the parking lot.",
+        "userID": "user789",
+        "location": "456 Elm Street, City",
+        "images": [],
+        "category": "Car Hacking",
+        "timestamp": "2023-05-24T15:45:00Z",
+        "status": "resolved",
+        "likes": 5,
+        "comments": [
+          {
+            "userID": "user123",
+            "comment": "Glad they couldn't get away with it!"
+          }
+        ]
+      },
+      {
+        "alertID": "3",
+        "message": "Assault incident near the park.",
+        "userID": "user456",
+        "location": "789 Oak Avenue, City",
+        "images": [],
+        "category": "Assault",
+        "timestamp": "2023-05-24T08:15:00Z",
+        "status": "active",
+        "likes": 2,
+        "comments": []
+      },
+      {
+        "alertID": "4",
+        "message": "Suspicious person loitering outside the shopping mall.",
+        "userID": "user123",
+        "location": "987 Maple Lane, City",
+        "images": [
+          "https://example.com/image3.jpg"
+        ],
+        "category": "Suspicious Activity",
+        "timestamp": "2023-05-23T18:20:00Z",
+        "status": "active",
+        "likes": 8,
+        "comments": [
+          {
+            "userID": "user789",
+            "comment": "I saw them too! Be careful, everyone!"
+          }
+        ]
+      },
+      {
+        "alertID": "5",
+        "message": "Vandalism at the local park playground.",
+        "userID": "user456",
+        "location": "321 Pine Street, City",
+        "images": [],
+        "category": "Vandalism",
+        "timestamp": "2023-05-22T11:50:00Z",
+        "status": "resolved",
+        "likes": 3,
+        "comments": [
+          {
+            "userID": "user123",
+            "comment": "Such a shame. Hope they catch the culprits."
+          },
+          {
+            "userID": "user789",
+            "comment": "Let's organize a cleanup event!"
+          }
+        ]
+      }
+    ]
+  }
+  
